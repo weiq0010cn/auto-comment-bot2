@@ -1,2 +1,3 @@
-# auto-comment-bot2
-Repository for testing GitHub automation that comments on feedback or suggestion issues and closes them
+# Automated Comment Bot
+
+A repository to test GitHub automation for adding comments to specific issues and closing them.
